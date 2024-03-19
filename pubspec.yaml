@@ -20,3 +20,12 @@ dev_dependencies:
   flutter_lints: ^3.0.1
   json_serializable: ">=6.7.0 <7.0.0"
   build_runner: ^2.4.8
+
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
