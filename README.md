@@ -1,3 +1,3 @@
-# flutter_sm_models
+# sm_models
 
-一些个人使用的通用模型。
+Some general models for personal use, A collection of general models that I find useful for personal projects.

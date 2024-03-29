@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
 import 'package:json_annotation/json_annotation.dart';
 
-import '../../generated/locales.g.dart';
+import 'generated/locales.g.dart';
 
 part 'error.g.dart';
 

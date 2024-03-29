@@ -11,17 +11,17 @@ class SMModelAppTranslation {
 
 class LocaleKeys {
   LocaleKeys._();
-  static const error = 'error';
-  static const no_network = 'no_network';
+  static const error = 'Error';
+  static const no_network = 'No network, please try again later';
 }
 
 class Locales {
   static const zh = {
-    'error': '错误',
-    'no_network': '当前暂无网络, 请稍后再试',
+    'Error': '错误',
+    'No network, please try again later': '当前暂无网络, 请稍后再试',
   };
   static const en = {
-    'error': 'Error',
-    'no_network': 'There is no network at the moment, please try again later',
+    'Error': 'Error',
+    'No network, please try again later': 'No network, please try again later',
   };
 }
