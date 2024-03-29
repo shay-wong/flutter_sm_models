@@ -47,7 +47,8 @@ class MError extends Error {
   final String? message;
 
   @override
-  String toString() => code != null && kDebugMode ? '$message\n$code' : '$message';
+  String toString() =>
+      code != null && kDebugMode ? '$message\n$code' : '$message';
 
   Map<String, dynamic> toJson() => _$MErrorToJson(this);
 }
