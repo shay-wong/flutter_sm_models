@@ -1,3 +1,9 @@
+# sm_models
+
+## 0.0.5
+
+* update pubspec.
+
 ## 0.0.4
 
 * rename.
